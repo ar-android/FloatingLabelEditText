@@ -1,5 +1,7 @@
 # FloatingLabelEditText
 Simple Floating label edittext android library
+Ispired by this
+<img src="https://d13yacurqjgara.cloudfront.net/users/6410/screenshots/1254439/form-animation-_gif_.gif" />
 
 ##Ge It From jitpack.io
 
@@ -31,6 +33,4 @@ More avaliable attribute xml
  app:editText_size
 ```
 
-This is ispired by this
-<img src="https://d13yacurqjgara.cloudfront.net/users/6410/screenshots/1254439/form-animation-_gif_.gif" />
 
